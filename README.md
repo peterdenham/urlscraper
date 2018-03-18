@@ -1,5 +1,14 @@
 Find hashtags in web pages
 -
+Brief
+
+Write a program that will parse the main page of each URL looking
+for certain patterns. We would like to find all references to a hash tag (e.g. #javascript)
+For each website, an output file should be generated showing the list of strings that match
+the pattern. For example, if you chose to find all hash tags, a text file should be generated
+for each web site that will list all the hashtag strings found in the site.
+
+
 Files
 - URLScraperRun - main program
 - URLProducer - parses URL file
